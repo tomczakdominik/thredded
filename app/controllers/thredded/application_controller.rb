@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 module Thredded
-  class ApplicationController < ::ApplicationController
+  class ApplicationController < Spree::BaseController
     layout :thredded_layout
     include ::Thredded::UrlsHelper
     include Pundit
