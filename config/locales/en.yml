@@ -126,3 +126,5 @@ en:
       started_by_html: Started %{time_ago} by %{user}
       unfollowed_notice: You are no longer following this topic
       updated_notice: Topic updated
+      newsletter:
+        email: Enter your e-mail here
